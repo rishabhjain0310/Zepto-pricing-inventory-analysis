@@ -1,6 +1,6 @@
-# 🧾 Product Pricing & Inventory Dashboard (Power BI)
+# 🧾 Zepto Product Pricing & Inventory Dashboard (Power BI)
 
-This Power BI project analyzes product pricing, discount trends, revenue generation, and stock availability for a fictional Indian retail company. It provides actionable insights to help businesses manage inventory, optimize pricing, and improve category performance.
+This Power BI project analyzes product pricing, discount trends, revenue generation, and stock availability for **Zepto**, a fast-growing Indian retail company. It provides actionable insights to help businesses manage inventory, optimize pricing, and improve category performance.
 
 ---
 
@@ -34,7 +34,7 @@ This Power BI project analyzes product pricing, discount trends, revenue generat
 
 ## 📁 Files Included
 
-- `Product_Pricing_Inventory.pbix` – Power BI dashboard file  
+- `Zepto_Pricing_Inventory.pbix` – Power BI dashboard file  
 - `Product_Sales_Cleaned.csv` – Cleaned dataset used for visualization  
 - `README.md` – Project documentation
 
@@ -52,8 +52,7 @@ This Power BI project analyzes product pricing, discount trends, revenue generat
 ## 🔗 About Me
 
 Created by **Rishabh Jain**  
-🎯 Passionate about Data Analysis, Business Intelligence, and Insight Generation  
-📬 [Optional: Email or LinkedIn here]
+📧 Email: [rishabhjain0310@gmail.com](mailto:rishabhjain0310@gmail.com)  
+🔗 LinkedIn: [Rishabh Jain](https://www.linkedin.com/in/rishabh-jain-60b5702aa/)
 
 ---
-
